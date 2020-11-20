@@ -13,3 +13,6 @@
 
 - tips1：双击状态图标可以隐藏/显示窗口
 - tips2：双击股票代码可以移除股票（需要在关闭点击穿透状态下）
+
+
+![](https://github.com/kun775/iStockHelper/blob/main/iStockHelper.png)
